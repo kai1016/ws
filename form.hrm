@@ -1,0 +1,28 @@
+<form action="https://ani.gamer.com.tw/">
+<input type="text" name="id">
+<input type="submit" value="送出">
+</form>
+
+<form action="https://ani.gamer.com.tw/animeVideo.php" method="GET">
+<select name="sn">
+<option value="18437">魔法科高中的劣等生 來訪者篇</option>
+<option value="18432">排球少年！！第四季 Part 2</option>
+<option value="18430">在地下城尋求邂逅是否搞錯了什麼 第三季</option>
+<option value="18421">暮蟬悲鳴時 業</option>
+<option value="18626">咒術迴戰</option>
+
+</select>
+<input type="submit" value="動畫表單">
+</form>
+
+<form action="https://ani.gamer.com.tw/search.php" method="GET">
+<input type="text" name="kw">
+<input type="submit" value="搜尋巴哈姆特動畫瘋">
+</form>
+
+<fieldset>
+<input type="date" name="date">
+<input type="time" name="time">
+<input type="dtel" name="tel" value="電話">
+<input type="email" name="email value="信箱">
+<input type="url" name="url" value="網址">
